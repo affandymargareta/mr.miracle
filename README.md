@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- sekagroup / apy rent a car **sekahabit online ecommerce,apy rent a car online ecommerce rental car**
+- sekagroup / apy rent a car : **sekahabit online ecommerce / apy rent a car online ecommerce rental car**
 
 - 📫 How to reach me **affandymargareta@gmail.com**
 
